@@ -1,0 +1,7 @@
+- Which basic arithmetic operations could I perform to compute this?
+	- Integer modulo and division are useful for retaining and discarding division remainders respectively
+- What are the edge cases?
+	- Negative numbers
+	- Zero
+	- Positive numbers
+	- Infinity

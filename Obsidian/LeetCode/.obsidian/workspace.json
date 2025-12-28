@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "7483c5cb81a9ebe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9295bb32ffb29f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6dba396ef2d3689",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Integer Palindrome/Notes.canvas",
+                "viewState": {
+                  "x": 207.90178833601823,
+                  "y": 1329.849097791616,
+                  "zoom": -0.3494887220232174
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "6256182ec1948621",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions to Ask.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Questions to Ask"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55214f0921a1a826",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0144941acfa4aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554aae7988bc9e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3925d3b180909d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c2538098125e75b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43ab8eded6b15105",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed69e75148274591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df8a0ad4c7a2a56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Questions to Ask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Questions to Ask"
+            }
+          },
+          {
+            "id": "9527553d336e7a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Questions to Ask.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Questions to Ask"
+            }
+          },
+          {
+            "id": "557bfb3198035c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f331ef2361becbd5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "213bac25dd743a63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Questions to Ask.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Questions to Ask"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6256182ec1948621",
+  "lastOpenFiles": [
+    "1. Integer Palindrome/Notes.canvas",
+    "Questions to Ask.md",
+    "1. Integer Palindrome/Notes.md",
+    "1. Integer Palindrome",
+    "Welcome.md"
+  ]
+}
