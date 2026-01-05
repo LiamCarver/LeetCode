@@ -1,0 +1,4 @@
+- Didn't think of edge cases
+	- E.g.:
+		- Zero length string
+		- Every character is unique

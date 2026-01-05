@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d5e5bb05a8befb8a","x":-240,"y":-200,"width":60,"height":60,"type":"text","text":"a"},
+		{"id":"cc719bfe5bde5219","type":"text","text":"b","x":-160,"y":-200,"width":60,"height":60},
+		{"id":"01e24f54624586d6","type":"text","text":"c","x":-80,"y":-200,"width":60,"height":60},
+		{"id":"e50999cb54a4ade1","type":"text","text":"c","x":160,"y":-200,"width":60,"height":60},
+		{"id":"68a9b70eafb6b721","type":"text","text":"b","x":80,"y":-200,"width":60,"height":60},
+		{"id":"eccc5ae42fea1192","type":"text","text":"b","x":240,"y":-200,"width":60,"height":60},
+		{"id":"27d3ae6700b0bc57","type":"text","text":"b","x":320,"y":-200,"width":60,"height":60},
+		{"id":"91cdaa562445f3c9","x":-380,"y":-200,"width":110,"height":60,"type":"text","text":"string"},
+		{"id":"fcb3ae9c7183e01a","x":-80,"y":-440,"width":120,"height":60,"type":"text","text":"abcabcbb"},
+		{"id":"079b2c6d3fe373d0","x":-80,"y":-360,"width":80,"height":60,"type":"text","text":"abc"},
+		{"id":"8b36f26e05d36836","x":-410,"y":-80,"width":140,"height":60,"type":"text","text":"dictionary"},
+		{"id":"7e4830d009814e9f","type":"text","text":"a","x":-240,"y":-80,"width":60,"height":60,"color":"4"},
+		{"id":"242463f49bc5d11b","type":"text","text":"b","x":-160,"y":-80,"width":60,"height":60,"color":"4"},
+		{"id":"b8962bc79f29216c","type":"text","text":"c","x":-80,"y":-80,"width":60,"height":60,"color":"4"},
+		{"id":"65e26b01cb470f2f","type":"text","text":"a","x":0,"y":-200,"width":60,"height":60},
+		{"id":"249283436d150e99","type":"text","text":"a","x":0,"y":-80,"width":60,"height":60,"color":"1"},
+		{"id":"9bf2b586c8df30c7","x":-205,"y":60,"width":665,"height":240,"type":"text","text":"- Initialize a list of strings to store the substrings\n- Go through every letter except the last\n- If the current longest substring is longer than the amount of letters left, return the current longest substring\n- Create a new set\n- Go from the next letter to the end\n- Try adding the current letter to the set. If it fails, add it to the string list and break out of the loop"}
+	],
+	"edges":[]
+}

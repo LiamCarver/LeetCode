@@ -1,9 +1,7 @@
-﻿using LeetCode.IntegerPalindrome;
+﻿using LeetCode.LongestSubstringWithoutRepeatingCharacters;
 
 var solution = new Solution();
 
-var x = 1211;
-
-var sanityCheck = solution.IsPalindrome(x);
+var check = solution.LengthOfLongestSubstring("au");
 
 var i = 1;

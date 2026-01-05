@@ -39,9 +39,23 @@
               "icon": "lucide-file",
               "title": "Questions to Ask"
             }
+          },
+          {
+            "id": "2046c9af46fc4bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Longest substring without repeating characters/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +217,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "6256182ec1948621",
+  "active": "2046c9af46fc4bf6",
   "lastOpenFiles": [
-    "1. Integer Palindrome/Notes.canvas",
+    "2. Longest substring without repeating characters/Notes.canvas",
+    "2. Longest substring without repeating characters/Notes.md",
     "Questions to Ask.md",
+    "2. Longest substring without repeating characters",
+    "1. Integer Palindrome/Notes.canvas",
     "1. Integer Palindrome/Notes.md",
     "1. Integer Palindrome",
     "Welcome.md"
